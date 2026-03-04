@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: workshop-module1
-  title: Module 1
+  name: workshop-devhub
+  title: Intro to Dev Hub
   description: |
-    Introduction to Red Hat Developer Hub
+    Introduction to Developer Hub
   annotations:
     backstage.io/techdocs-ref: dir:.
   tags:
