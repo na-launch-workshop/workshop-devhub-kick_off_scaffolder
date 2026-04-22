@@ -7,10 +7,11 @@ metadata:
     Introduction to Developer Hub
   annotations:
     backstage.io/techdocs-ref: dir:.
+#   backstage.io/techdocs-ref: dir:https://<hosted-git-repo>     # use absolute path instead to consolidate techdocs among repo forks
   tags:
     - developerhub
 spec:
   type: module
   lifecycle: production
-  owner: group:default/workshop-admins
+  owner: group:default/developers
   subcomponentOf: component:default/workshop-repository
