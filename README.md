@@ -1,5 +1,7 @@
 # 🚀 **Module: Introduction to Developer Hub**
 
+See how a pre-built application can quickly ramp up your starting time by using Developer Hub’s "golden templates".
+
 **Technology Stack:**
 
 - Developer Hub

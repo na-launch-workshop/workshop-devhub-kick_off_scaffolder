@@ -4,7 +4,7 @@ metadata:
   name: workshop-devhub
   title: Intro to Dev Hub
   description: |
-    Introduction to Developer Hub
+    Enable Developer Self-Service with Developer Hub
   annotations:
     backstage.io/techdocs-ref: dir:.
 #   backstage.io/techdocs-ref: dir:https://<hosted-git-repo>   # use absolute path instead to consolidate techdocs among repo forks

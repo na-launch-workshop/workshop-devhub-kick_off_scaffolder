@@ -1,5 +1,5 @@
 site_name: Introduction to Developer Hub
-site_description: Introduction to Developer Hub
+site_description: Enable Developer Self-Service with Developer Hub
 
 nav:
   - Overview: index.md
