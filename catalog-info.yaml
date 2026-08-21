@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: workshop-devhub
-  title: Intro to Dev Hub
+  title: Module 1 - Intro to Dev Hub
   description: |
     Enable Developer Self-Service with Developer Hub
   annotations:
@@ -15,5 +15,5 @@ metadata:
 spec:
   type: module
   lifecycle: development
-  owner: group:default/workshop-admins
+  owner: group:default/users
   subcomponentOf: component:default/workshop-repository
